@@ -1,0 +1,6 @@
+METADATA|Grade|GradeCode|SetCode|GradeName|EffectiveStartDate|ActiveStatus
+MERGE|Grade|IC1|COMMON|Individual Contributor 1|2000/01/01|A
+MERGE|Grade|IC2|COMMON|Individual Contributor 2|2000/01/01|A
+MERGE|Grade|IC3|COMMON|Individual Contributor 3|2000/01/01|A
+MERGE|Grade|M1|COMMON|Manager 1|2000/01/01|A
+MERGE|Grade|M2|COMMON|Manager 2|2000/01/01|A
